@@ -1,0 +1,21 @@
+/*.field-name-field-image{
+  padding: 20px;
+  border: 3px solid blue;
+  max-width: 400px;
+}
+
+.field-name-field-image img{
+  width: 100%;
+  height: auto;
+}
+
+.panel-col-bottom .inside{
+  border: 5px solid red;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.field-name-field-image img:hover{
+  width: 105%;
+  border: 5px dotted green;
+}*/
